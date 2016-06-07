@@ -1,4 +1,6 @@
 # Desu Desu Talk!
+
+[![Join the chat at https://gitter.im/desudesutalk/desudesutalk](https://badges.gitter.im/desudesutalk/desudesutalk.svg)](https://gitter.im/desudesutalk/desudesutalk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Добавляем немного стеганографии и криптографии в обычный картинкопостинг на имджбордах десу. 256 битный ECC и 256 битный AES для защищённого *псевдонимного* общения.
 
 # 8chan? 4chan? Refer to **[english guide](https://github.com/desudesutalk/desudesutalk/wiki/How-to-use-this-script)**!
